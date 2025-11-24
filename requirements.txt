@@ -1,0 +1,10 @@
+google-adk>=0.5.0
+google-cloud-aiplatform[agent_engines]>=1.112
+uvicorn>=0.22.0
+fastapi>=0.95.0
+pydantic>=2.2
+python-dotenv>=1.0
+requests>=2.31
+google-generativeai
+pytest>=7.3
+flake8>=6.1
